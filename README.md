@@ -1,22 +1,29 @@
 # Classificador de Nível de Herói
 
-## Sobre o projeto
+## 📖 Sobre o projeto
 
-Projeto desenvolvido durante o Bootcamp da DIO para praticar lógica de programação com JavaScript.
+Projeto desenvolvido durante o Bootcamp da DIO para praticar lógica de programação utilizando JavaScript.
 
-## Tecnologias
+## 🚀 Tecnologias
 
 - JavaScript
 - Git
 - GitHub
+- Visual Studio Code
 
-## Conceitos utilizados
+## 📚 Conceitos praticados
 
 - Variáveis
 - Operadores
 - Estruturas condicionais (`if`, `else if`, `else`)
-- `console.log`
+- `console.log()`
 
-## Resultado
+## 🎯 Objetivo
 
-O programa classifica o herói de acordo com sua quantidade de XP e exibe o nível correspondente.
+Classificar um herói de acordo com sua quantidade de XP e exibir seu nível.
+
+### Exemplo de saída
+
+```
+O Herói de nome Kitana está no nível de Radiante
+```
